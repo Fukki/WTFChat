@@ -1,0 +1,8 @@
+{
+	"disableAutoUpdate": false,
+	"options": {
+		"niceName": "WTF Chat"
+	},
+	"servers": [""],
+	"supportUrl": ""
+}
