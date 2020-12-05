@@ -4,7 +4,7 @@ just chat in every mode :v
 command
 - !chat [text]
 - !chat set [mode]
-*default mode always set to Say
+<br>*default mode always set to Say
 
 | Mode |
 | ------------------------ |
